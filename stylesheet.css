@@ -1,4 +1,8 @@
 * {
     font-family: Futura;
+    font-size: 15px;
 }
 
+.navbar-brand {
+    font-size: 30px;
+}
